@@ -1,0 +1,23 @@
+.container {
+    background-color: rgb(197, 196, 196);
+    width: 12rem;
+    height: 12rem;
+    border-radius: 0.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btnStyle{
+    font-size: .7rem;
+    cursor: pointer;
+    display: inline-block;
+    border-bottom: 1px solid black;
+  }
+
+  .btn{
+    font-size: 0.7rem;
+    padding-inline: 6px;
+    padding-block: 3px;
+    border: none;
+  }
